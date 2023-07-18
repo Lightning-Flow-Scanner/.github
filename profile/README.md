@@ -14,4 +14,4 @@ _**Salesforce**_ has been heavily innovating its **_#nocode solutions_** and the
 | **Unconnected elements** |  Unconnected elements which are not being used by the Flow should be avoided to keep Flows efficient and maintainable. |
 | **Unused variables**      |  Unused variables which are not being used by the Flow should be avoided to keep Flow more efficient and maintainable. |
 
-**More information on the rules can be found in the [lfs-core module documentation](https://github.com/Force-Config-Control/lightning-flow-scanner-core).**
+_More information on the rules can be found in the [lfs-core module documentation](https://github.com/Force-Config-Control/lightning-flow-scanner-core)._
