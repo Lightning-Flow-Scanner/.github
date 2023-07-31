@@ -2,7 +2,7 @@
 
 _**Salesforce**_ has been heavily innovating its **_#nocode solutions_** and there is a **rising need** for ways to **ensure industry best practices are being followed**, to fully leverage this innovation whilst preventing or minimizing technical debt. **Lightning Flow Scanner** is a **free** and **open-source tool** that can perform **static analysis on _Salesforce Flows_, _Process Builders_** and **_Workflows_** to **identify violations of industry best practices**. It is available  as a **_[SFDX plugin](https://www.npmjs.com/package/lightning-flow-scanner)_** which can be used in a **_CLI_**(implementable in _CI/CD pipelines_ like _Github Actions_) and as a **_[VSCode extension](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner)_** that provides a **_UI_**. 
 
-**Included Checks:**
+####  Included Checks:
 | Rule       | Description |
 |--------------|:-----------|
 | **Old API version** | Newer API components may cause older versions of Flows to start behaving incorrectly due to differences in the underlying mechanics. The Api Version has been available as an attribute on the Flow since API v50.0 and it is recommended to limit variation and to update them on a regular basis. |
