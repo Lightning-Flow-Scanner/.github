@@ -2,7 +2,7 @@
 
 ## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence! 🚀
 
-Elevate your Salesforce Flow game and be part of our mission to champion Best Practices and empower Flow Builders. The Lightning Flow Scanner is your trusted ally when building Salesforce Flows! By starring us on GitHub, you're driving the cause of Salesforce Flow Excellence. Your support fuels our mission to help Flow Builders to confidently meet the latest Best Practices.
+Elevate your Salesforce Flow game and be part of our mission to champion Best Practices and empower Flow Builders. The Lightning Flow Scanner is your trusted ally when building Salesforce Flows! By starring us on GitHub, you're driving the cause of Salesforce Flow Excellence. Your support ignites confidence in Flow Builders, ensuring they effortlessly embrace the latest Best Practices.
 
 Together, let's advance Salesforce Flows and promote excellence!
 
