@@ -12,7 +12,7 @@ Together, let's advance Salesforce Flows and promote excellence!
 - ✨ Static Analysis: Identify and rectify Industry Best Practice violations.
 - 🛠️ SFDX Plugin: Seamlessly integrate into CI/CD pipelines like Github Actions.
 - 💻 VSCode Extension: An intuitive UI for effortless flow analysis.
-- 🤝 Community: Connect with experts and share your knowledge in a plug & play manner.
+- 🤝 Community: Connect with experts and share knowledge.
 
 ### Best Practice Rules Currently Checked with the Scanner:
 
