@@ -6,8 +6,6 @@ Elevate your Salesforce Flow game and be part of our mission to champion Best Pr
 
 Together, let's advance Salesforce Flows and promote excellence!
 
-👉  Star Us on GitHub Now!
-
 ### 🔧 What We Offer:
 
 - ✨ Static Analysis: Identify and rectify Industry Best Practice violations.
