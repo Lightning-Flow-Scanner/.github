@@ -13,7 +13,7 @@ Together, let's advance Salesforce Flows and promote excellence!
 - 💻 VSCode Extension: An intuitive UI for effortless flow analysis.
 - 🤝 Community: Connect with experts and share knowledge.
 
-### Best Practice Rules Currently Checked with the Scanner:
+### 🔍 Best Practice Rules Currently Checked with the Scanner:
 
 | Rule                          | Description                                                                                                                                                                |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
