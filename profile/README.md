@@ -1,6 +1,6 @@
 [![Lightning Flow Scanner Banner](docs/images/bannerslim.png)](https://github.com/Force-Config-Control/.github)
 
-## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence with the Lightning Flow Scanner! 🚀
+## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence! 🚀
 
 Elevate your Salesforce Flow game and be part of our mission to champion Best Practices and empower Flow Builders. The Lightning Flow Scanner is your trusted ally when building Salesforce Flows! By starring us on GitHub, you're driving the cause of Salesforce Flow Excellence. Your support fuels our mission to ensure Flow Builders can confidently meet the latest Best Practices.
 
