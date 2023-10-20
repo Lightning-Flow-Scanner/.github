@@ -8,7 +8,7 @@ Together, let's advance Salesforce Flows and promote excellence!
 
 ### 🔧 What We Offer:
 
-- ✨ [Static Analysis](https://github.com/Force-Config-Control/lightning-flow-scanner-core): Identify and rectify Industry Best Practice violations.
+- ✨ [Comprehensive Best Practices Analysis](https://github.com/Force-Config-Control/lightning-flow-scanner-core): Ensure your Salesforce Flows adhere to the latest best practices through advanced static analysis.
 - 🛠️ [SFDX Plugin](https://github.com/Force-Config-Control/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines like Github Actions.
 - 💻 [VSCode Extension](https://github.com/Force-Config-Control/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
 - 🤝 [Community](https://github.com/orgs/Force-Config-Control/discussions): Connect with experts and share knowledge.
