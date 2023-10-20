@@ -12,7 +12,7 @@ Together, let's advance Salesforce Flows and promote excellence!
 - 🛠️ [SFDX Plugin](https://github.com/Force-Config-Control/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines like Github Actions.
 - 💻 [VSCode Extension](https://github.com/Force-Config-Control/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
 - 📂 [Demo Flows](https://github.com/Force-Config-Control/Force-Flow-Control-Examples): Explore real-world examples of Flow violations and their resolutions, providing practical insights to enhance your Salesforce Flow development and scanning process.
-- 🤝 [Community](https://github.com/orgs/Force-Config-Control/discussions): Connect with experts and share knowledge.
+- 🤝 [Community](https://github.com/orgs/Force-Config-Control/discussions): Connect with experts and share knowledge on Salesforce Flows.
 
 ### 🔍 Best Practices Checked with our Scanner:
 
