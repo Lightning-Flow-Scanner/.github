@@ -1,4 +1,4 @@
-[![Lightning Flow Scanner Banner](docs/images/bannerslim.png)](https://github.com/Force-Config-Control/.github)
+[![Lightning Flow Scanner Banner](docs/images/bannerslim.png)](https://github.com/Lightning-Flow-Scanner/.github)
 
 ## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence! 🚀
 
@@ -8,11 +8,11 @@ Together, let's advance Salesforce Flows and promote excellence!
 
 ### 🔧 What We Offer:
 
-- ✨ [Best Practices Analysis](https://github.com/Force-Config-Control/lightning-flow-scanner-core): Ensure your Flows adhere to the latest Best Practices through Comprehensive Static Analysis.
-- 🛠️ [SFDX Plugin](https://github.com/Force-Config-Control/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines like Github Actions.
-- 💻 [VSCode Extension](https://github.com/Force-Config-Control/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
-- 📂 [Demo Flows](https://github.com/Force-Config-Control/Force-Flow-Control-Examples): Explore real-world examples of Flow violations and their resolutions, providing practical insights to enhance your Salesforce Flow development and scanning process.
-- 🤝 [Community](https://github.com/orgs/Force-Config-Control/discussions): Connect with experts and share knowledge on Salesforce Flows.
+- ✨ [Best Practices Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core): Ensure your Flows adhere to the latest Best Practices through Comprehensive Static Analysis.
+- 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines like Github Actions.
+- 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
+- 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore real-world examples of Flow violations and their resolutions, providing practical insights to enhance your Salesforce Flow development and scanning process.
+- 🤝 [Community](https://github.com/orgs/Lightning-Flow-Scanner/discussions): Connect with experts and share knowledge on Salesforce Flows.
 
 ### 🔍 Best Practices Checked with our Scanner:
 
@@ -30,4 +30,4 @@ Together, let's advance Salesforce Flows and promote excellence!
 | **Unconnected elements**      | Unconnected elements that are not being used by the Flow should be avoided to keep Flows efficient and maintainable.                                                                                                                    |
 | **Unused variables**          | Unused variables that are not being used by the Flow should be avoided to keep the Flow more efficient and maintainable.                                                                                                                 |
 
-_More information on the rules can be found in the [Lightning Flow Scanner Core module documentation](https://github.com/Force-Config-Control/lightning-flow-scanner-core)._
+_More information on the rules can be found in the [Lightning Flow Scanner Core module documentation](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core)._
