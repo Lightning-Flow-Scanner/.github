@@ -14,7 +14,7 @@ Together, let's advance Salesforce Flows and promote excellence!
 - 📂 [Demo Flows](https://github.com/Force-Config-Control/Force-Flow-Control-Examples): Explore real-world examples of Flow violations and their resolutions, providing practical insights to enhance your Salesforce Flow development and scanning process.
 - 🤝 [Community](https://github.com/orgs/Force-Config-Control/discussions): Connect with experts and share knowledge.
 
-### 🔍 Best Practice Rules Currently Checked with the Scanner:
+### 🔍 Best Practices Checked with our Scanner:
 
 | Rule                          | Description                                                                                                                                                                |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
