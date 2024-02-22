@@ -12,7 +12,7 @@ Together, let's advance Salesforce Flows and promote excellence!
 - 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
 - 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines like Github Actions.
 - 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore real-world examples of Flow violations and their resolutions, providing practical insights to enhance your Salesforce Flow development and scanning process.
-- 🤝 [Chat Room](https://matrix.to/#/#lightningflowscanner:gitter.im): If you have a quick question or you want to connect, feel free to join our gitter chat immidiately! 
+- 🤝 [Chat Room](https://matrix.to/#/#lightningflowscanner:gitter.im): If you have a quick question or you want to connect, feel free to join our gitter chat immediately! 
 
 ### 🔍 Best Practices Checked with our Scanner:
 
