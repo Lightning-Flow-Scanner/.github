@@ -6,7 +6,7 @@ The Lightning Flow Scanner is your trusted ally when building Salesforce Flows! 
 
 ### 🔧 What We Offer:
 
-- ✨ [Best Practices Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core): Ensure your Flows adhere to Best Practices with Static Analysis.
+- ✨ [Best Practices Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core): Ensure your Flows adhere to Best Practices using Static Analysis.
 - 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
 - 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines like Github Actions.
 - 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): Plugin for Copado Users
