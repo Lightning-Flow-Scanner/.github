@@ -4,16 +4,16 @@
 
 The Lightning Flow Scanner is your trusted ally when building Salesforce Flows! Elevate your Salesforce Flow game and be part of our mission to champion Best Practices. By getting involved with us, you're fueling Salesforce Flow Excellence and boosting Flow Builders' confidence in effortlessly adopting Best Practices. Let's promote excellence together!
 
-### 🔧 What We Offer:
+### 🔧 We Offer:
 
-- ✨ [Best Practices Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core): Ensure your Flows adhere to Best Practices using Static Analysis.
+- ✨ [Static Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core): Ensure your Flows adhere to Best Practices using our extensible Static Analysis.
 - 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
-- 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines like Github Actions.
-- 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): Plugin for Copado Users
-- 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore real-world examples of Flow violations and their resolutions, providing practical insights to enhance your Salesforce Flow development and scanning process.
-- 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): If you have a quick question or you want to connect, feel free to join our gitter chat immediately! 
+- 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines.
+- 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): A plugin specifically for Copado Users!
+- 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): If you want to connect, you can join our gitter chat immediately!
+- 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore real-world examples of Flow violations and their resolutions to get practical insights.
 
-### 🔍 Best Practices Checked with our Scanner:
+### 🔍 Default Ruleset:
 
 | Rule       | Description |
 |--------------|:-----------|
@@ -30,4 +30,4 @@ The Lightning Flow Scanner is your trusted ally when building Salesforce Flows! 
 | **Unconnected Element** |  Unconnected elements which are not being used by the Flow should be avoided to keep Flows efficient and maintainable. |
 | **Unused Variable**      |  To maintain the efficiency and manageability of your Flow, it's advisable to avoid including unconnected variables that are not in use. |
 
-_More information on the rules can be found in the [Lightning Flow Scanner Core module documentation](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core)._
+_More information on the default rules and how to create custom rules can be found in the [Core Module Documentation](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core)._
