@@ -5,14 +5,6 @@
 Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!
 
 ### 🔧 We Offer:
-
-- ✨ [Static Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core): Ensure your Flows adhere to Best Practices using our extensible Ruleset. 
-- 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): An intuitive UI for effortless flow analysis.
-- 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Seamlessly integrate into CI/CD pipelines.
-- 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): A plugin specifically for Copado Users!
-- 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): If you want to connect, you can join our gitter chat immediately!
-- 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore real-world examples of Flow violations and their resolutions to get practical insights.
-
 - ✨ Static Analysis: Ensure your Flows adhere to Best Practices with our comprehensive Ruleset and powerful rule engine.
 - 💻 VSCode Extension: Analyze flows with an intuitive user interface directly within VSCode.
 - 🛠️ SFDX Plugin: Integrate our tool into your CI/CD pipelines using Salesforce CLI.
