@@ -13,6 +13,13 @@ Take your Salesforce Flows to the next level and join us in our commitment to pr
 - 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): If you want to connect, you can join our gitter chat immediately!
 - 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore real-world examples of Flow violations and their resolutions to get practical insights.
 
+- ✨ Static Analysis: Ensure your Flows adhere to Best Practices with our comprehensive Ruleset and powerful rule engine.
+- 💻 VSCode Extension: Analyze flows with an intuitive user interface directly within VSCode.
+- 🛠️ SFDX Plugin: Integrate our tool into your CI/CD pipelines using Salesforce CLI.
+- 🛠️ Copado Plugin: Tailored integration for Copado Users, enhancing your deployment process.
+- 🤝 Chat Room: Join our Gitter chat for immediate support and community engagement.
+- 📂 Demo Flows: Explore practical examples of Flow violations and their resolutions in real-world scenarios.
+
 ### 🔍 Our Extensible Ruleset:
 
 | Rule       | Description |
