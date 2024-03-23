@@ -6,11 +6,11 @@
 
 ### 🔧 We Offer:
 
-- ✨ [Static Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core): Ensure your Flows adhere to Best Practices with our comprehensive Ruleset and powerful rule engine.
-  - 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): Effortlessly analyze flows with an intuitive user interface directly within VSCode.
-  - 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Seamlessly integrate our tools into your CI/CD pipelines using Salesforce CLI.
-  - 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): Tailored integration for Copado Users, enhancing your deployment process.
-- 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore practical examples of Flow violations and their resolutions in real-world scenarios.
+- ✨ [Static Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core):  Ensure Flows adhere to Best Practices with our extensible Ruleset and Flow Compiler.
+  - 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): Analyze Flows directly within VSCode.
+  - 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Integrate Flow analysis into your CI/CD pipelines.
+  - 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): Tailored integration for Copado Users.
+- 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore practical examples of violations and their resolutions.
 - 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Join our Gitter chat for immediate support and community engagement.
 
 
