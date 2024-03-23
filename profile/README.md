@@ -2,15 +2,16 @@
 
 ## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence!
 
-Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!
+  **_Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!_**
 
 ### 🔧 We Offer:
-- ✨ Static Analysis: Ensure your Flows adhere to Best Practices with our comprehensive Ruleset and powerful rule engine.
-- 💻 VSCode Extension: Analyze flows with an intuitive user interface directly within VSCode.
-- 🛠️ SFDX Plugin: Integrate our tool into your CI/CD pipelines using Salesforce CLI.
-- 🛠️ Copado Plugin: Tailored integration for Copado Users, enhancing your deployment process.
-- 🤝 Chat Room: Join our Gitter chat for immediate support and community engagement.
-- 📂 Demo Flows: Explore practical examples of Flow violations and their resolutions in real-world scenarios.
+
+  ✨ Static Analysis: Ensure your Flows adhere to Best Practices with our comprehensive Ruleset and powerful rule engine.
+  💻 VSCode Extension: Analyze flows with an intuitive user interface directly within VSCode.
+  🛠️ SFDX Plugin: Integrate our tool into your CI/CD pipelines using Salesforce CLI.
+  🛠️ Copado Plugin: Tailored integration for Copado Users, enhancing your deployment process.
+  🤝 Chat Room: Join our Gitter chat for immediate support and community engagement.
+  📂 Demo Flows: Explore practical examples of Flow violations and their resolutions in real-world scenarios.
 
 ### 🔍 Our Extensible Ruleset:
 
