@@ -2,7 +2,7 @@
 
 ## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence!
 
-Elevate your Salesforce Flow game and be part of our mission to champion Best Practices. By getting involved with us, you're fueling Salesforce Flow Excellence and boosting Flow Builders' confidence in adopting Best Practices. Let's promote excellence together!
+Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved, you'll help improve Salesforce Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!
 
 ### 🔧 We Offer:
 
