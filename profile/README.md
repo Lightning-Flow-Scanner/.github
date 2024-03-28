@@ -8,7 +8,7 @@
 
 - ✨ [Static Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core):  Ensure Flows adhere to Best Practices with our extensible Ruleset and Flow Compiler.
   - 💻 [VSCode Extension](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce): Analyze Flows directly within VSCode.
-  - 💻 [Salesforce Code Builder Extension](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner): Analyze Flows in the web with the Salesforce Code Builder.
+  - 💻 [Code Builder Extension](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner): Analyze Flows in the web with the Salesforce Code Builder.
   - 🛠️ [SFDX Plugin](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx): Integrate Flow analysis into your CI/CD pipelines.
   - 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): Tailored integration for Copado Users.
 - 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore practical examples of violations and their resolutions.
