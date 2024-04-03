@@ -4,18 +4,25 @@
 
   **_Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved and lending us your star, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!_**
 
-### 🔧 We Offer:
+### 🔧 We Support:
 
-- ✨ [Static Analysis](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core):  Ensure Flows adhere to Best Practices with our extensible Ruleset and Flow Compiler.
-  - 💻 [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner): Analyze Flows directly within VSCode.
-  - 💻 [Code Builder Extension](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner): Analyze Flows in the web with the Salesforce Code Builder.
-  - 🛠️ [SFDX Plugin](https://www.npmjs.com/package/lightning-flow-scanner): Integrate Flow analysis into your CI/CD pipelines.
-  - 🛠️ [Copado Plugin](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS): Tailored integration for Copado Users.
+🔍 [Extensible Flow Analysis](#extensible-flow-analysis) [![Downloads/total](https://img.shields.io/npm/dt/lightning-flow-scanner.svg)](https://www.npmjs.com/package/lightning-flow-scanner-core)
+ Analyze Flows  seamlessly within VSCode, or alternatively, leverage the Salesforce Code Builder in your Org.
+  - 💻 [VSCode](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers)
+  Examine Flows directly within VSCode, or alternatively, utilize the Salesforce Code Builder in the Web. 
+  - 🛠️ [Salesforce CLI](https://www.npmjs.com/package/lightning-flow-scanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx/stargazers/)
+  Integrate Flow analysis into Github Actions and your CI/CD pipelines. 
+  -  [Copado Story Integration](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS)
+  Configure Flow Analysis as a Quality Gate within Copado.
+
+#### ➡️ Try and Connect:
+Furthermore, explore our:
+
 - 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore practical examples of violations and their resolutions.
-- 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Join our Gitter chat for immediate support and community engagement.
+- 💬 [Discussion Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions): Ask questions, share insights, and participate in community discussions.
+- 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time with fellow enthusiasts.
 
-
-### 🔍 Our Extensible Ruleset:
+### Extensible Flow Analysis: 
 
 | Rule       | Description |
 |--------------|:-----------|
