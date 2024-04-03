@@ -2,7 +2,7 @@
 
 ## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence!
 
-  **_Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved and lending us your star, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!_**
+**_Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved and lending us your star, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!_**
 
 ### 🔧 We Support:
 
@@ -11,7 +11,7 @@
 Analyze Flows  seamlessly within VSCode, or alternatively, leverage the Salesforce Code Builder in your Org.
   - 💻 [VSCode](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers) - Examine Flows directly within VSCode or the Salesforce Code Builder. 
   - 🛠️ [Salesforce CLI](https://www.npmjs.com/package/lightning-flow-scanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx/stargazers/) - Integrate Flow analysis into Github Actions and your CI/CD pipelines. 
-  -  [Copado Story Integration](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS) - Configure Flow Analysis as a Quality Gate within Copado.
+  - 🚦 [Copado Story Integration](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS) - Configure Flow Analysis as a Quality Gate within Copado.
 
 #### ➡️ Try and Connect:
 Furthermore, explore our:
