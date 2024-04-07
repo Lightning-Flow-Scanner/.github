@@ -13,7 +13,7 @@
 Furthermore, explore our:
 
 - 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore practical examples of violations and their resolutions.
-- 🗣️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions): Ask questions and share insights on everything related to Flows.
+- 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions): Ask questions and share insights on everything related to Flows.
 - 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time.
 
 ### Extensible Flow Analysis: 
