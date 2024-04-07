@@ -17,13 +17,13 @@ Furthermore, explore our:
 - 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time.
 
 ### Extensible Flow Analysis: 
-The following types of violations are detected by our analysis:
+The following types of violaions are detected by our analysis:
 
 - **Outdated API Version**: Regularly update API versions to avoid discrepancies and ensure compatibility.
 - **Copy API Name**: Update API names when copying elements to maintain readability.
 - **DML Statement In A Loop**: Consolidate database operations to prevent exceeding governor limits.
 - **Duplicate DML Operation**: Prevent duplicate database operations between screens.
-- **Hardcoded Id**: Pass IDs into variables instead of hard-coding them for org-specificity.
+- **Hardcoded Id**: Remove Hardcoded ID's and eliminate data dependencies.
 - **Flow Naming Convention**: Establish a naming convention for better findability and consistency.
 - **Missing Flow Description**: Include descriptions to document flow usage and purpose.
 - **Missing Fault Path**: Customize error handling with a Fault Path to handle flow failures.
