@@ -1,5 +1,3 @@
-[![Lightning Flow Scanner Banner](docs/images/bannerslim.png)](https://github.com/Lightning-Flow-Scanner/.github)
-
 ## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence!
 
 **_Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved and lending us your star, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!_**
