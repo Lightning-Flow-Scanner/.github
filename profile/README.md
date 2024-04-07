@@ -37,4 +37,3 @@ The following types of violations are detected by our analysis:
 - **Unused Variable**: Remove unused variables for better flow manageability.
 
 _More information on the default ruleset and how to extend it is in the [Core Module Documentation](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core)._
-![image](https://github.com/Lightning-Flow-Scanner/.github/assets/25385823/613e96d8-6bc5-49d7-96d6-2a84979d6edd)
