@@ -1,4 +1,4 @@
-## 🚀 Join our Collective Pursuit of Salesforce Flow Excellence!
+## 🤝 Join our Collective Pursuit of Salesforce Flow Excellence!
 
 **_Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By getting involved and lending us your star, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!_**
 
@@ -15,8 +15,8 @@ Analyze Flows  seamlessly within VSCode, or alternatively, leverage the Salesfor
 Furthermore, explore our:
 
 - 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore practical examples of violations and their resolutions.
-- 💬 [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions): Ask questions and share insights on everything related to Flows.
-- 🤝 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time.
+- 🗣️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions): Ask questions and share insights on everything related to Flows.
+- 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time.
 
 ### Extensible Flow Analysis: 
 The following types of violations are detected by our analysis:
