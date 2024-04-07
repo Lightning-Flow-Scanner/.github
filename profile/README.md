@@ -17,7 +17,7 @@ Furthermore, explore our:
 - 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time.
 
 ### Extensible Flow Analysis: 
-The following types of violaions are detected by our analysis:
+The following types of violations are detected by our analysis:
 
 - **Outdated API Version**: Regularly update API versions to avoid discrepancies and ensure compatibility.
 - **Copy API Name**: Update API names when copying elements to maintain readability.
@@ -32,4 +32,4 @@ The following types of violaions are detected by our analysis:
 - **Unconnected Element**: Avoid unconnected elements to maintain flow efficiency.
 - **Unused Variable**: Remove unused variables for better flow manageability.
 
-_More information on the default ruleset and how to extend it is in the [Core Module Documentation](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core)._
+_Additional information regarding the rule engine can be found on our [Github Pages](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
