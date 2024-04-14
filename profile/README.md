@@ -21,17 +21,21 @@ Furthermore, explore our:
 ### Extensible Flow Analysis: 
 The following types of violations are detected by our analysis:
 
-- **Outdated API Version**: Regularly update API versions to avoid discrepancies and ensure compatibility.
-- **Copy API Name**: Update API names when copying elements to maintain readability.
-- **DML Statement In A Loop**: Consolidate database operations to prevent exceeding governor limits.
-- **Duplicate DML Operation**: Prevent duplicate database operations between screens.
-- **Hardcoded Id**: Remove hardcoded ID's to eliminate data dependencies.
-- **Flow Naming Convention**: Establish a naming convention for better findability and consistency.
-- **Missing Flow Description**: Include descriptions to document flow usage and purpose.
-- **Missing Fault Path**: Customize error handling with a Fault Path to handle flow failures.
-- **Missing Null Handler**: Validate data by checking for non-null results in Get Records operations.
-- **SOQL Query In A Loop**: Consolidate SOQL queries to avoid governor limit issues.
-- **Unconnected Element**: Avoid unconnected elements to maintain flow efficiency.
-- **Unused Variable**: Remove unused variables for better flow manageability.
+| Rule | Description |
+|--------------------------|-------------|
+| **Auto Layout**  | Elements are spaced, connected, and aligned automatically in Auto Layout Mode. |
+| **Copy API Name**  | Update API names when copying elements to maintain readability. |
+| **DML Statement In A Loop** | Consolidate database operations to prevent exceeding governor limits. |
+| **Duplicate DML Operation**  | Prevent duplicate database operations between screens. |
+| **Hardcoded Id**  | Remove hardcoded ID's to eliminate data dependencies. |
+| **Flow Naming Convention**  | Establish a naming convention for better findability and consistency. |
+| **Missing Flow Description**  | Include descriptions to document flow usage and purpose. |
+| **Missing Fault Path**  | Customize error handling with a Fault Path to handle flow failures. |
+| **Missing Null Handler**  | Validate data by checking for non-null results in Get Records operations. |
+| **Outdated API Version**  | Regularly update API versions to avoid discrepancies and ensure compatibility. |
+| **Process Builder**  | Migrate your organization's automation to Flow. |
+| **SOQL Query In A Loop**  | Consolidate SOQL queries to avoid governor limit issues. |
+| **Unconnected Element**  | Avoid unconnected elements to maintain flow efficiency. |
+| **Unused Variable**  | Remove unused variables for better flow manageability. |
 
-_Additional information regarding the rule engine can be found on our [Github Pages](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
+_Additional information on the rules and engine can be found in our [Core Documentation](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
