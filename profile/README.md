@@ -29,8 +29,9 @@ The following types of violations are detected by our analysis:
 | **Copy API Name**  | Update API names when copying elements to maintain readability. |
 | **DML Statement In A Loop** | Consolidate database operations to prevent exceeding governor limits. |
 | **Duplicate DML Operation**  | Prevent duplicate database operations between screens. |
-| **Hardcoded Id**  | Remove hardcoded ID's to eliminate data dependencies. |
 | **Flow Naming Convention**  | Establish a naming convention for better findability and consistency. |
+| **Hardcoded Id**  | Remove hardcoded ID's to eliminate data dependencies. |
+| **Inactive Flow**  | Delete unused flows to prevent unexpected behaviour.  |
 | **Missing Flow Description**  | Include descriptions to document flow usage and purpose. |
 | **Missing Fault Path**  | Customize error handling with a Fault Path to handle flow failures. |
 | **Missing Null Handler**  | Validate data by checking for non-null results in Get Records operations. |
