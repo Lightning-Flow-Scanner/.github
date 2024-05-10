@@ -4,8 +4,13 @@
 
 _"Maintaining high-quality Salesforce Flows is critical for the success of your business applications. Lightning Flow Scanner is a powerful tool that can help you identify and address common issues in your Flows."_ - Mohith Shrivastava, Principal Developer Advocate at Salesforce.
 
-Take your Salesforce Flows to the next level and join us in our commitment to promoting Best Practices. By starring us, you'll help improve Flows and boost confidence among Flow Builders. Let's work together to achieve excellence!
+✨ Rely on us for transparent, reliable assessments of Salesforce Flows backed by our commitment to Open Source.
+🚀 Experience empowerment at no cost, deepening your understanding of Salesforce Flows.
+💡 Drive innovation by seamlessly streamlining development workflows between low-code and traditional approaches.
+🤝 Empower all voices to shape the current standard of Flow Excellence through open collaboration.
+🌱 Promote excellence and reduce technical debt for resilient solutions.
 
+Ready to take your Salesforce Flows to the next level? Join us in our collective pursuit of excellence!
 ### 🔧 We Support:
 
 🔍 [Extensible Flow Analysis](#extensible-flow-analysis) [![Downloads/total](https://img.shields.io/npm/dt/lightning-flow-scanner.svg)](https://www.npmjs.com/package/lightning-flow-scanner-core)
@@ -42,3 +47,5 @@ The following types of violations are detected by our analysis:
 | **Unused Variable**  | Remove unused variables for better flow manageability. |
 
 _Additional information on the rules and engine can be found in our [Core Documentation](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
+
+### ⭐️ Star Us on GitHub: Show your support and help us gain visibility within the community by starring our repositories!
