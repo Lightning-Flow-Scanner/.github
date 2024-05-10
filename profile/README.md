@@ -11,7 +11,7 @@ _"Maintaining high-quality Salesforce Flows is critical for the success of your 
 - 🌱 Promote excellence and reduce technical debt for resilient solutions.
 
 Ready to take your Salesforce Flows to the next level? Join us in our collective pursuit of excellence!
-### 🔧 We Provide:
+### 🔧 Explore our free offerings:
 
 🔍 [Extensible Flow Analysis](#extensible-flow-analysis) [![Downloads/total](https://img.shields.io/npm/dt/lightning-flow-scanner.svg)](https://www.npmjs.com/package/lightning-flow-scanner-core)
   - 💻 [VSCode](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers) - Examine Flows directly within VSCode or the Salesforce Code Builder. 
@@ -45,5 +45,3 @@ The following types of violations are detected by our analysis:
 | **Unused Variable**  | Remove unused variables for better flow manageability. |
 
 _Additional information on the rules and engine can be found in our [Core Documentation](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
-
-### ⭐️ Star Us on GitHub: Show your support and help us gain visibility within the community by starring our repositories!
