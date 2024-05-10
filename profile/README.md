@@ -41,4 +41,4 @@ The following are default violations are detected by our analysis:
 | **Unconnected Element**  | Avoid unconnected elements to maintain flow efficiency. |
 | **Unused Variable**  | Remove unused variables for better flow manageability. |
 
-_Additional information on the rules and the extensibility of the engine can be found in our [Core Documentation](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
+_Additional information on the default rules and the extensibility of the engine can be found in our [Documentation](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
