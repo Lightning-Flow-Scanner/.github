@@ -6,7 +6,7 @@ _"Maintaining high-quality Salesforce Flows is critical for the success of your 
 
 - ✨ Rely on us for transparent, reliable assessments of Salesforce Flows backed by our commitment to Open Source.
 - 🚀 Experience empowerment at no cost, deepening your understanding of Salesforce Flows.
-- 💡 Drive innovation by seamlessly streamlining development workflows between low-code and traditional approaches.
+- 💡 Drive innovation by streamlining development workflows between low-code and traditional approaches.
 - 🤝 Empower all voices to shape the current standard of Flow Excellence through open collaboration.
 - 🌱 Promote excellence and reduce technical debt for resilient solutions.
 
