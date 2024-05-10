@@ -1,6 +1,6 @@
 ## 🌐 Join our Collective Pursuit of Salesforce Flow Excellence!
 
-### 📺 As Seen On [Salesforce codeLive](https://www.youtube.com/watch?v=VxZWfhTzEqU)
+### As Seen On [Salesforce codeLive 📺](https://www.youtube.com/watch?v=VxZWfhTzEqU) 
 
 _"Maintaining high-quality Salesforce Flows is critical for the success of your business applications. Lightning Flow Scanner is a powerful tool that can help you identify and address common issues in your Flows."_ - Mohith Shrivastava, Principal Developer Advocate at Salesforce.
 
