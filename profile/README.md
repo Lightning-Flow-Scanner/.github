@@ -10,7 +10,7 @@ _"Maintaining high-quality Salesforce Flows is critical for the success of your 
 - 🤝 Empower all voices to shape the current standard of Flow Excellence through open collaboration.
 - 🌱 Promote excellence and reduce technical debt for resilient solutions.
 
-Ready to take your Salesforce Flows to the next level? Join us in our collective pursuit of excellence!
+Ready to take your Salesforce Flows to the next level?
 ### 🔧 Explore our offerings:
 
 🔍 [Extensible Flow Analysis](#extensible-flow-analysis) [![Downloads/total](https://img.shields.io/npm/dt/lightning-flow-scanner.svg)](https://www.npmjs.com/package/lightning-flow-scanner-core)
