@@ -4,11 +4,11 @@
 
 _"Maintaining high-quality Salesforce Flows is critical for the success of your business applications. Lightning Flow Scanner is a powerful tool that can help you identify and address common issues in your Flows."_ - Mohith Shrivastava, Principal Developer Advocate at Salesforce.
 
-- ✨ Count on us for transparent, up-to-date assessments of Flows, driven by our commitment to Open Source.
-- 🚀 Experience empowerment at no cost, continuously deepening your understanding of Flows.
-- 💡 Drive innovation by integrating low-code and traditional development workflows.
-- 🤝 Empower all voices to shape the standard of Flow Excellence through open collaboration.
-- 🌱 Promote excellence and reduce technical debt for resilient solutions.
+- ✨ Count on us for Transparent, Up-to-Date Assessments of Flows, Driven by Our Commitment to Open Source.
+- 🚀 Experience Empowerment at No Cost, Continuously Deepening Your Understanding of Flows.
+- 💡 Drive Innovation by Integrating Low-Code and Traditional Development Workflows.
+- 🤝 Empower All Voices to Shape the Standard of Flow Excellence Through Open Collaboration.
+- 🌱 Promote Excellence and Reduce Technical Debt for Resilient Solutions.
 
 Ready to take your Salesforce Flows to the next level?
 ### 🔧 Explore our offerings:
