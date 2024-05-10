@@ -21,7 +21,7 @@ Furthermore, see our:
 - 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time.
 
 ### Extensible Flow Analysis: 
-The following are default violations included in our analysis:
+The following are the default rules included in our analysis:
 
 | Rule | Description |
 |--------------------------|-------------|
