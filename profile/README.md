@@ -18,9 +18,7 @@ Ready to take your Salesforce Flows to the next level? Join us in our collective
   - 🛠️ [Salesforce CLI](https://www.npmjs.com/package/lightning-flow-scanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx/stargazers/) - Integrate Flow Analysis into Github Actions and your CI/CD pipelines. 
   - 🚦 [Copado Pipelines](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS) - Perform Flow Analysis as a quality gate within Copado.
 
-#### ➡️ Try and Connect:
 Furthermore, explore our:
-
 - 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows): Explore practical examples of violations and their resolutions.
 - 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions): Ask questions and share insights on everything related to Flows.
 - 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org): Connect & engage in real-time.
