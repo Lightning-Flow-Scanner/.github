@@ -11,9 +11,9 @@ _"Maintaining high-quality Salesforce Flows is critical for the success of your 
 - 🌱 Promote Excellence and Reduce Technical Debt for Resilient Solutions.
 
 Explore our [Flow Analysis](#extensible-flow-analysis) [![Downloads/total](https://img.shields.io/npm/dt/lightning-flow-scanner.svg)](https://www.npmjs.com/package/lightning-flow-scanner-core) in Various Forms 🔍
-  - 💻 [VSCode](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers) - Examine Flows directly within VSCode or the Salesforce Code Builder. 
   - 🛠️ [Salesforce CLI](https://www.npmjs.com/package/lightning-flow-scanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx/stargazers/) - Integrate Flow Analysis into Github Actions and your CI/CD pipelines.
-  - [Salesforce App(Beta)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app)
+  - 💻 [VSCode](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers) - Examine Flows directly within VSCode or the Salesforce Code Builder.
+  - 🌐 [Salesforce App(Beta)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app) [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-app)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-app/stargazers/) - Scan and analyze flows directly within Salesforce with our Lightning Flow Scanner App.
   - 🚦 [Copado Pipelines](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS) - Perform Flow Analysis as a quality gate within Copado.
 
 Furthermore, see our:
