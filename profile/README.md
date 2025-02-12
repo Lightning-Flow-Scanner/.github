@@ -1,6 +1,5 @@
 ## 🌐 Join the Movement for Evolving Flow Assessments
-
-_"Maintaining high-quality Salesforce Flows is critical for the success of your business applications. Lightning Flow Scanner is a powerful tool that can help you identify and address common issues in your Flows."_ - Mohith Shrivastava, Principal Developer Advocate on [Salesforce codeLive 📺](https://www.youtube.com/watch?v=VxZWfhTzEqU)
+_"High-quality Salesforce Flows are key to successful business applications. Lightning Flow Scanner helps you quickly spot and fix common Flow issues."_ - Mohith Shrivastava, Principal Developer Advocate, [Salesforce codeLive 📺](https://www.youtube.com/watch?v=VxZWfhTzEqU)
 
 #### ✨ Shaping Transparent & Reliable Flow Assessments Together
 We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helping consultants and developers refine their Flow practices together through open-source solutions. As part of this journey, we encourage community input to learn from each other and continuously shape the open standard that guides Flow development. Check out our [Contributing Guidelines](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/blob/master/CONTRIBUTING.md) for more information in how to get involved!
