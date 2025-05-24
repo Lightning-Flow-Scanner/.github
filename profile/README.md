@@ -35,7 +35,13 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date)](https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date)
+<a href="https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date" />
+ </picture>
+</a>
 
 ### Extensible Flow Analysis:
 
