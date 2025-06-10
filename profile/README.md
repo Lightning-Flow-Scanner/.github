@@ -51,6 +51,6 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 | [Metaforce](https://metaforce.ltd/)                              | Web Application     |
 
 
-#### 🙏 Thank you for joining us on this mission to elevate Flow Quality. Your stars, contributions, and feedback help shape the future of reliable Flow development.
+#### 🙏 Thank you for joining us on this mission to elevate Flow Quality. Your stars, contributions, and feedback help shape the future of Lightning Flow Scanner.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date)](https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date)
