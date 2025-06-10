@@ -1,11 +1,11 @@
-### 🌐 Join the Movement for Evolving Flow Assessments
+## 🌐 Join the Movement for Evolving Flow Assessments
 
 _"Maintaining high-quality Salesforce Flows is critical for the success of your business applications. Lightning Flow Scanner is a powerful tool that can help you identify and address common issues in your Flows."_ - Mohith Shrivastava, Principal Developer Advocate on [Salesforce codeLive 📺](https://www.youtube.com/watch?v=VxZWfhTzEqU)
 
-#### ✨ Shaping Transparent & Reliable Flow Assessments Together
+### ✨ Shaping Transparent & Reliable Flow Assessments Together
 We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helping consultants and developers refine their Flow practices together through open-source solutions. As part of this journey, we encourage community input to learn from each other and continuously shape the open standard that guides Flow development. Check out our [Contributing Guidelines](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/blob/master/CONTRIBUTING.md) for more information in how to get involved! Explore our [Flow Analysis 🔍](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core?tab=readme-ov-file#default-rules) in Various Forms:
 
-##### [1. Salesforce CLI Plugin 🛠️](https://www.npmjs.com/package/lightning-flow-scanner)
+#### [1. Salesforce CLI Plugin 🛠️](https://www.npmjs.com/package/lightning-flow-scanner)
 
 <div align="center">
   <a href="https://www.npmjs.com/package/lightning-flow-scanner">
@@ -15,7 +15,7 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 
 *Integrate Flow Analysis into your CI/CD pipelines.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx/stargazers/)
 
-##### [2. Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder Extension 💻](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner)
+#### [2. Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder Extension 💻](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner)
 
 <div align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner">
@@ -25,7 +25,7 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 
 *Analyze Flows directly within VSCode or Code Builder.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers)
 
-##### [3. Salesforce Lightning App 🌐](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app)
+#### [3. Salesforce Lightning App 🌐](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app)
 
 <div align="center">
   <a href="https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app">
@@ -35,13 +35,13 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 
 *Run Flow Analysis natively in your Salesforce Org.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-app)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-app/stargazers/)
 
-##### Furthermore, explore our:
+#### Furthermore, explore our:
 
 * 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows) – Browse real-world examples of Flow violations and their resolutions.
 * 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions) – Discuss best practices, ask questions, and share insights with the community.
 * 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org) – Join real-time conversations and collaborate with other Flow enthusiasts.
 
-### 🔌 Lightning Flow Scanner Integrations
+## 🔌 Lightning Flow Scanner Integrations
 
 | Tool                            | Type         |
 |----------------------------------|--------------|
@@ -51,6 +51,6 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 | [Metaforce](https://metaforce.ltd/)                              | Web Application     |
 
 
-🙏 Thank you for joining us on this mission to elevate Flow Quality. Your stars, contributions, and feedback help shape the future of reliable Flow development.
+#### 🙏 Thank you for joining us on this mission to elevate Flow Quality. Your stars, contributions, and feedback help shape the future of reliable Flow development.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date)](https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date)
