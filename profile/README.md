@@ -1,71 +1,56 @@
-## 🌐 Join the Movement for Evolving Flow Assessments
+### 🌐 Join the Movement for Evolving Flow Assessments
 
 _"Maintaining high-quality Salesforce Flows is critical for the success of your business applications. Lightning Flow Scanner is a powerful tool that can help you identify and address common issues in your Flows."_ - Mohith Shrivastava, Principal Developer Advocate on [Salesforce codeLive 📺](https://www.youtube.com/watch?v=VxZWfhTzEqU)
 
-### ✨ Shaping Transparent & Reliable Flow Assessments Together
-We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helping consultants and developers refine their Flow practices together through open-source solutions. As part of this journey, we encourage community input to learn from each other and continuously shape the open standard that guides Flow development. Check out our [Contributing Guidelines](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/blob/master/CONTRIBUTING.md) for more information in how to get involved! Explore our [Flow Analysis 🔍](#extensible-flow-analysis) in Various Forms:
+#### ✨ Shaping Transparent & Reliable Flow Assessments Together
+We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helping consultants and developers refine their Flow practices together through open-source solutions. As part of this journey, we encourage community input to learn from each other and continuously shape the open standard that guides Flow development. Check out our [Contributing Guidelines](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/blob/master/CONTRIBUTING.md) for more information in how to get involved! Explore our [Flow Analysis 🔍](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core?tab=readme-ov-file#default-rules) in Various Forms:
 
-#### [1. Salesforce CLI Plugin 🛠️](https://www.npmjs.com/package/lightning-flow-scanner)
+##### [1. Salesforce CLI Plugin 🛠️](https://www.npmjs.com/package/lightning-flow-scanner)
 
-![sfdx gif](/docs/gifs/lfs-sfdx.gif)
+<div align="center">
+  <a href="https://www.npmjs.com/package/lightning-flow-scanner">
+    <img src="/docs/gifs/lfs-sfdx.gif" alt="sfdx gif" width="600"/>
+  </a>
+</div>
 
 *Integrate Flow Analysis into your CI/CD pipelines.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-sfdx/stargazers/)
 
-#### [2. Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder Extension 💻](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner)
+##### [2. Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner) / [Code Builder Extension 💻](https://open-vsx.org/extension/ForceConfigControl/lightningflowscanner)
 
-![vsce gif](/docs/gifs/lfs-vsce.gif)
+<div align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=ForceConfigControl.lightningflowscanner">
+    <img src="/docs/gifs/lfs-vsce.gif" alt="vsce gif" width="600"/>
+  </a>
+</div>
 
-*Analyze Flows directly within VSCode or Code Builder. [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers)*
+*Analyze Flows directly within VSCode or Code Builder.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers)
 
-#### [3. Salesforce Lightning App 🌐](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app)
+##### [3. Salesforce Lightning App 🌐](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app)
 
-![lwc gif](/docs/gifs/lfs-lwc.gif)
+<div align="center">
+  <a href="https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app">
+    <img src="/docs/gifs/lfs-lwc.gif" alt="lwc gif" width="600"/>
+  </a>
+</div>
 
 *Run Flow Analysis natively in your Salesforce Org.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-app)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-app/stargazers/)
 
-#### [4. Copado Pipelines 🚦](https://success.copado.com/s/listing-detail?recordId=a54P7000003G3gBIAS) 
-![copado image](/docs/images/copado-example.png)
-
-*Perform Flow Analysis as a quality gate within Copado pipelines.* [![GitHub stars](https://img.shields.io/github/stars/abhisheksaxena7/Copado-Flow-Scanner)](https://github.com/abhisheksaxena7/Copado-Flow-Scanner/stargazers)
-
-#### Furthermore, explore our:
+##### Furthermore, explore our:
 
 * 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows) – Browse real-world examples of Flow violations and their resolutions.
 * 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions) – Discuss best practices, ask questions, and share insights with the community.
+* 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org) – Join real-time conversations and collaborate with other Flow enthusiasts.
 
-### Star History
+### 🔌 Lightning Flow Scanner Integrations
+
+| Tool                            | Type         |
+|----------------------------------|--------------|
+| [MegaLinter](https://nvuillam.github.io/mega-linter/)           | CLI Plugin    |
+| [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000G4W3UUAV) | AppExchange App |
+| [Copado Pipelines](https://www.copado.com/)                     | Copado Extension     |
+| [Metaforce](https://metaforce.ltd/)                              | Web Application     |
+
+
+🙏 Thank you for joining us on this mission to elevate Flow Quality. Your stars, contributions, and feedback help shape the future of reliable Flow development.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date)](https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date)
-
-### Extensible Flow Analysis:
-
-Currently, our default rules include:
-
-| Rule (Configuration ID)                                                                                                                                                                     | Description                                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Auto Layout** ([`AutoLayout`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/AutoLayout.ts))                                       | With Canvas Mode set to Auto-Layout, Elements are spaced, connected, and aligned automatically, keeping your Flow neatly organized thus saving you time.                                                                                                                                                                                                                                               |
-| **Outdated API Version** ([`APIVersion`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/APIVersion.ts))                              | Introducing newer API components may lead to unexpected issues with older versions of Flows, as they might not align with the underlying mechanics. Starting from API version 50.0, the 'Api Version' attribute has been readily available on the Flow Object. To ensure smooth operation and reduce discrepancies between API versions, it is strongly advised to regularly update and maintain them. |
-| **Copy API Name** ([`CopyAPIName`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/CopyAPIName.ts))                                   | Maintaining multiple elements with a similar name, like 'Copy_X_Of_Element,' can diminish the overall readability of your Flow. When copying and pasting these elements, it's crucial to remember to update the API name of the newly created copy.                                                                                                                                                    |
-| **DML Statement In A Loop** ([`DMLStatementInLoop`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/DMLStatementInLoop.ts))           | To prevent exceeding Apex governor limits, it is advisable to consolidate all your database operations, including record creation, updates, or deletions, at the conclusion of the flow.                                                                                                                                                                                                               |
-| **Duplicate DML Operation** ([`DuplicateDMLOperation`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/DuplicateDMLOperation.ts))     | When the flow executes database changes or actions between two screens, it's important to prevent users from navigating back between screens. Failure to do so may result in duplicate database operations being performed within the flow.                                                                                                                                                            |
-| **Flow Naming Convention** ([`FlowName`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/FlowName.ts))                                | The readability of a flow is of utmost importance. Establishing a naming convention for the Flow Name significantly enhances findability, searchability, and maintains overall consistency. It is advisable to include at least a domain and a brief description of the actions carried out in the flow, for instance, 'Service_OrderFulfillment'.                                                     |
-| **Hardcoded Id** ([`HardcodedId`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/HardcodedId.ts))                                    | Avoid hard-coding IDs as they are org-specific. Instead, pass them into variables at the start of the flow. You can achieve this by utilizing merge fields in URL parameters or employing a Get Records element.                                                                                                                                                                                       |
-| **Inactive Flow** ([`InactiveFlow`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/InactiveFlow.ts))                                 | Like cleaning out your closet: deleting unused flows is essential. Inactive flows can still cause trouble, like accidentally deleting records during testing, or being activated as subflows within parent flows.                                                                                                                                                                                      |
-| **Missing Flow Description** ([`FlowDescription`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/FlowDescription.ts))                | Descriptions play a vital role in documentation. We highly recommend including details about where they are used and their intended purpose.                                                                                                                                                                                                                                                           |
-| **Missing Fault Path** ([`MissingFaultPath`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/MissingFaultPath.ts))                    | At times, a flow may fail to execute a configured operation as intended. By default, the flow displays an error message to the user and notifies the admin who created the flow via email. However, you can customize this behavior by incorporating a Fault Path.                                                                                                                                     |
-| **Missing Null Handler** ([`MissingNullHandler`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/MissingNullHandler.ts))              | When a Get Records operation doesn't find any data, it returns null. To ensure data validation, utilize a decision element on the operation result variable to check for a non-null result.                                                                                                                                                                                                            |
-| **Process Builder** ([`ProcessBuilder`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/ProcessBuilder.ts))                           | Salesforce is transitioning away from Workflow Rules and Process Builder in favor of Flow. Ensure you're prepared for this transition by migrating your organization's automation to Flow. Refer to official documentation for more information on the transition process and tools available.                                                                                                         |
-| **SOQL Query In A Loop** ([`SOQLQueryInLoop`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/SOQLQueryInLoop.ts))                    | To prevent exceeding Apex governor limits, it is advisable to consolidate all your SOQL queries at the conclusion of the flow.                                                                                                                                                                                                                                                                         |
-| **Unconnected Element** ([`UnconnectedElement`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/UnconnectedElement.ts))               | Unconnected elements which are not being used by the Flow should be avoided to keep Flows efficient and maintainable.                                                                                                                                                                                                                                                                                  |
-| **Unused Variable** ([`UnusedVariable`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/UnusedVariable.ts))                           | To maintain the efficiency and manageability of your Flow, it's advisable to avoid including unconnected variables that are not in use.                                                                                                                                                                                                                                                                |
-| **Unsafe Running Context** ([`UnsafeRunningContext`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/UnsafeRunningContext.ts))        | This flow is configured to run in System Mode without Sharing. This system context grants all running users the permission to view and edit all data in your org. Running a flow in System Mode without Sharing can lead to unsafe data access.                                                                                                                                                        |
-| **Same Record Field Updates** ([`SameRecordFieldUpdates`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/SameRecordFieldUpdates.ts)) | Much like triggers, before contexts can update the same record by accessing the trigger variables `$Record` without needing to invoke a DML.                                                                                                                                                                                                                                                         |
-| **Trigger Order** ([`TriggerOrder`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/TriggerOrder.ts))                                 | Guarantee your flow execution order with the Trigger Order property introduced in Spring '22                                                                                                                                                                                                                                                                                                           |
-| **Cyclomatic Complexity** ([`CyclomaticComplexity`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/CyclomaticComplexity.ts)) | The number of loops and decision rules, plus the number of decisions. Use a combination of 1) subflows and 2) breaking flows into multiple concise trigger ordered flows, to reduce the cyclomatic complexity within a single flow, ensuring maintainability and simplicity. |
-| **Recursive After Update** ([`RecursiveAfterUpdate`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/RecursiveAfterUpdate.ts)) | After updates are meant to be used for record modifications that are not the same record that triggered the flow. Using after updates on the same record can lead to recursion and unexpected behavior. Consider using before save flows for same record updates. |
-| **Get Record All Fields** ([`GetRecordAllFields`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/GetRecordAllFields.ts)) | Following the principle of least privilege (PoLP), avoid using Get Records with 'Automatically store all fields' unless necessary. |
-| **Hardcoded Url** ([`HardcodedUrl`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/HardcodedUrl.ts)) | Avoid hard-coding URLs as they are org-specific. Instead, use a $API formula (preferred) or you can use an environment-specific such as custom labels, custom metadata, or custom settings. |
-| **Action Calls In Loop** ([`ActionCallsInLoop`](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/src/main/rules/ActionCallsInLoop.ts)) | To prevent exceeding Apex governor limits, it is advisable to consolidate and bulkify your apex calls, utilize a single action call containing a collection variable at the end of the loop. |
-
-
-_Additional information on the default rules and the extensibility of the engine can be found in our [Documentation](https://lightning-flow-scanner.github.io/lightning-flow-scanner-core/)._
