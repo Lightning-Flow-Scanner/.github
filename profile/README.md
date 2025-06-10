@@ -50,7 +50,6 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 | [Copado Pipelines](https://www.copado.com/)                     | Copado Extension     |
 | [Metaforce](https://metaforce.ltd/)                              | Web Application     |
 
-
-#### 🙏 Thank you for joining us on this mission to elevate Flow Quality. Your stars, contributions, and feedback help shape the future of Lightning Flow Scanner.
+#### 🙏 Thanks for being part of our mission to elevate Flow Quality. Every star, contribution, and bit of feedback fuels the future of Salesforce Flow Excellence.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date)](https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date)
