@@ -37,14 +37,14 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 * 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows) – Browse real-world examples of Flow violations and their resolutions.
 * 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions) – Discuss best practices, ask questions, and share insights with the community.
 * 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org) – Join real-time conversations and collaborate with other Flow enthusiasts.
-
+https://appexchange.salesforce.com/appxListingDetail?listingId=1de21f0b-2476-4780-a6b5-1bc631ccd138
 ## 🔌 Lightning Flow Scanner Integrations
 
 | Tool                            | Type         |
 |----------------------------------|--------------|
 | [MegaLinter](https://nvuillam.github.io/mega-linter/)           | CLI Plugin    |
-| [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000G4W3UUAV) | AppExchange App |
-| [Copado Pipelines](https://www.copado.com/)                     | Copado Extension     |
+| [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=1de21f0b-2476-4780-a6b5-1bc631ccd138) | AppExchange App |
+| [Copado Pipelines](https://success.copado.com/s/listing-detail?language=en_US&recordId=a54P7000003G3gBIAS)                     | Copado Extension     |
 | [Metaforce](https://metaforce.ltd/)                              | Web Application     |
 
 #### 🙏 Thanks for being part of our mission to elevate Flow Quality. Every star, contribution, and bit of feedback fuels the future of Salesforce Flow Excellence.
