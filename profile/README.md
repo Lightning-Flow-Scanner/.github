@@ -34,7 +34,7 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 
 #### Furthermore, explore our:
 
-* 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-example-flows) – Browse real-world examples of Flow violations and their resolutions.
+* 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/example-flows) – Browse real-world examples of Flow violations and their resolutions.
 * 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions) – Discuss best practices, ask questions, and share insights with the community.
 * 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org) – Join real-time conversations and collaborate with other Flow enthusiasts.
   
