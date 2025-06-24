@@ -40,13 +40,13 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
   
 ## 🔌 Lightning Flow Scanner Integrations
 
-| Tool                            | Type         |
-|----------------------------------|--------------|
-| [MegaLinter](https://nvuillam.github.io/mega-linter/)           | CLI Plugin    |
-| [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=1de21f0b-2476-4780-a6b5-1bc631ccd138) | AppExchange App |
-| [Copado Pipelines](https://success.copado.com/s/listing-detail?language=en_US&recordId=a54P7000003G3gBIAS)                     | Copado Extension     |
-| [Metaforce](https://metaforce.ltd/)                              | Web Application     |
+| Tool                                                                                                                                     | Type              | Version Used | Status     |
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------|------------|
+| [Copado Pipelines](https://success.copado.com/s/listing-detail?language=en_US&recordId=a54P7000003G3gBIAS)                               | Copado Extension  | Latest       | 🟢 OK |
+| [MegaLinter](https://nvuillam.github.io/mega-linter/)                                                                                    | CLI Plugin        | 2.3.0        | 🔴 Outdated |
+| [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=1de21f0b-2476-4780-a6b5-1bc631ccd138)          | AppExchange App   | 3.15.0       | 🟡 Behind |
+| [Metaforce](https://metaforce.ltd/)                                                                                                      | Web Application   | Unknown      | ⚪️ Unknown   |
 
-#### 🙏 Thanks for being part of our mission to elevate Flow Quality. Every star, contribution, and bit of feedback fuels the future of Salesforce Flow Excellence.
+#### Thank you for being part of our mission to elevate Flow Quality. Every star, contribution, and bit of feedback fuels a future of Salesforce Flow Excellence.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date)](https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date)
