@@ -43,9 +43,9 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 | Tool                                                                                                                                     | Type              | Version Used | Status     |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------|------------|
 | [Copado Pipelines](https://success.copado.com/s/listing-detail?language=en_US&recordId=a54P7000003G3gBIAS)                               | Copado Extension  | Latest       | 🟢 OK |
+| [Metaforce](https://metaforce.ltd/)                                                                                                      | Desktop Application   | 3.2.0      | 🟡 Behind |
 | [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=1de21f0b-2476-4780-a6b5-1bc631ccd138)          | AppExchange App   | 3.15.0       | 🟡 Behind |
 | [MegaLinter](https://nvuillam.github.io/mega-linter/)                                                                                    | CLI Plugin        | 2.3.0        | 🔴 Outdated |
-| [Metaforce](https://metaforce.ltd/)                                                                                                      | Web Application   | Unknown      | ⚪️ Unknown   |
 
 #### Thank you for being part of our mission to elevate Flow Quality. Every star, contribution, and bit of feedback fuels a future of Salesforce Flow Excellence.
 
