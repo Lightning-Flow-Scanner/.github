@@ -1,6 +1,17 @@
-## 🌐 Join the Movement for Evolving Flow Assessments
+## 🌐 Lightning Flow Scanner: Elevating Salesforce Flow Quality
 
-We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helping consultants and developers refine their Flow practices together through open-source solutions. As part of this journey, we encourage community input to learn from each other and continuously shape the open standard that guides Flow development. Check out our [Contributing Guidelines](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/blob/master/CONTRIBUTING.md) for more information in how to get involved! Explore our [Flow Analysis 🔍](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core?tab=readme-ov-file#default-rules) in Various Forms:
+Lightning Flow Scanner (LFS) is a community-driven, open-source tool designed to enhance Salesforce Flow quality through static analysis. Built for developers, admins, and citizen developers, LFS uses an extensible rule engine to identify violations of Best Practices and design flaws like **hardcoded IDs**, **security vulnerabilities**, and **recursive updates**. Join us in shaping the future of Flow excellence! 
+
+## 🔌 Lightning Flow Scanner Integrations
+
+| Tool                                                                                                                                     | Type              | Version Used | Status     |
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------|------------|
+| [Copado Pipelines](https://success.copado.com/s/listing-detail?language=en_US&recordId=a54P7000003G3gBIAS)                               | Copado Extension  | Latest       | 🟢 OK |
+| [Metaforce](https://metaforce.ltd/)                                                                                                      | Desktop Application   | Latest     |🟢 OK | 
+| [MegaLinter](https://nvuillam.github.io/mega-linter/)                                                                                    | CLI Plugin        | Latest       | 🟢 OK |
+| [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=1de21f0b-2476-4780-a6b5-1bc631ccd138)          | AppExchange App   | 3.15.0       | 🟡 Behind |
+
+## 🔍 Lightning Flow Scanner Apps
 
 #### [1. Salesforce CLI Plugin 🛠️](https://www.npmjs.com/package/lightning-flow-scanner)
 
@@ -22,7 +33,7 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 
 *Analyze Flows directly within VSCode or Code Builder.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-vsce)](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-vsce/stargazers)
 
-#### [3. Salesforce Lightning App 🌐](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app)
+#### [3. Salesforce App 🌐](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app)
 
 <div align="center">
   <a href="https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-app">
@@ -32,21 +43,22 @@ We aim to pursue an ever-evolving standard of Salesforce Flow Excellence, helpin
 
 *Run Flow Analysis natively in your Salesforce Org.* [![GitHub stars](https://img.shields.io/github/stars/Lightning-Flow-Scanner/lightning-flow-scanner-app)](https://GitHub.com/Lightning-Flow-Scanner/lightning-flow-scanner-app/stargazers/)
 
-#### Furthermore, explore our:
+Furthermore, explore our:
 
+* 🔍 [Ruleset 🔍](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core?tab=readme-ov-file#default-rules)  - View the full list of Default Rules to explore checks for common Flow issues and to contribute new rules. 
 * 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/example-flows) – Browse real-world examples of Flow violations and their resolutions.
 * 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions) – Discuss best practices, ask questions, and share insights with the community.
 * 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org) – Join real-time conversations and collaborate with other Flow enthusiasts.
   
-## 🔌 Lightning Flow Scanner Integrations
+## 🙌 Thank You
 
-| Tool                                                                                                                                     | Type              | Version Used | Status     |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------|------------|
-| [Copado Pipelines](https://success.copado.com/s/listing-detail?language=en_US&recordId=a54P7000003G3gBIAS)                               | Copado Extension  | Latest       | 🟢 OK |
-| [Metaforce](https://metaforce.ltd/)                                                                                                      | Desktop Application   | Latest     |🟢 OK | 
-| [MegaLinter](https://nvuillam.github.io/mega-linter/)                                                                                    | CLI Plugin        | Latest       | 🟢 OK |
-| [Salesforce Flow Analyzer](https://appexchange.salesforce.com/appxListingDetail?listingId=1de21f0b-2476-4780-a6b5-1bc631ccd138)          | AppExchange App   | 3.15.0       | 🟡 Behind |
+Your stars, contributions, and feedback fuel LFS’s mission to elevate Salesforce Flow quality. Join thousands of orgs building better Flows and shaping the future of low-code automation! Here’s how to get involved:
 
-#### Thank you for being part of our mission to elevate Flow Quality. Every star, contribution, and bit of feedback fuels a future of Salesforce Flow Excellence.
+- ⭐ Star the Repo: Support us by starring our GitHub repositories.
+- 🐛 Report Issues: Spot a bug or have an idea? Open an issue on lightning-flow-scanner-core.
+- 💻 Submit Pull Requests: Add rules or improvements by forking the core repo and submitting a PR.
+- 💬 Join Discussions: Share ideas, ask questions, or propose new features in our Forum or Chat Room.
+
+For detailed steps, see our [Contributing Guidelines](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/blob/master/CONTRIBUTING.md). Whether you’re a developer, admin, or citizen developer, your input shapes LFS’s future. Let’s build better Flows together!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lightning-Flow-Scanner/lightning-flow-scanner-sfdx,Lightning-Flow-Scanner/lightning-flow-scanner-core,Lightning-Flow-Scanner/lightning-flow-scanner-vsce&type=Date)](https://www.star-history.com/#Lightning-Flow-Scanner/lightning-flow-scanner-sfdx&Lightning-Flow-Scanner/lightning-flow-scanner-core&Lightning-Flow-Scanner/lightning-flow-scanner-vsce&Date)
