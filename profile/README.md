@@ -1,6 +1,6 @@
 ## 🌐 Lightning Flow Scanner: Elevating Salesforce Flow Quality
 
-Lightning Flow Scanner (LFS) is a community-driven, open-source tool designed to enhance Salesforce Flow quality through static analysis. Built for developers, admins, and citizen developers, LFS uses an extensible rule engine to identify violations of Best Practices and design flaws like **hardcoded IDs**, **security vulnerabilities**, and **recursive updates**. Join us in shaping the future of Flow excellence! 
+Lightning Flow Scanner (LFS) is a community-driven, open-source toolset designed to enhance Salesforce Flow quality through static analysis. Built for developers, admins, and citizen developers, LFS uses an extensible rule engine to identify violations of Best Practices and design flaws like **hardcoded IDs**, **security vulnerabilities**, and **recursive updates**. Join us in shaping the future of Flow excellence! 
 
 ## 🔌 Lightning Flow Scanner Integrations
 
@@ -48,14 +48,13 @@ Furthermore, explore our:
 * 🔍 [Ruleset 🔍](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core?tab=readme-ov-file#default-rules)  - View the full list of Default Rules to explore checks for common Flow issues and to contribute new rules. 
 * 📂 [Demo Flows](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/tree/master/example-flows) – Browse real-world examples of Flow violations and their resolutions.
 * 🏛️ [Forum](https://github.com/orgs/Lightning-Flow-Scanner/discussions) – Discuss best practices, ask questions, and share insights with the community.
-* 💬 [Chat Room](https://matrix.to/#/#lightning-flow-scanner:matrix.org) – Join real-time conversations and collaborate with other Flow enthusiasts.
   
 ## 🙌 Thank You
 
 Your stars, contributions, and feedback fuel LFS’s mission to elevate Salesforce Flow quality. Join thousands of orgs building better Flows and shaping the future of low-code automation! Here’s how to get involved:
 
-- ⭐ Star the Repo: Support us by starring our GitHub repositories.
-- 🐛 Report Issues: Spot a bug or have an idea? Open an issue on lightning-flow-scanner-core.
+- ⭐ Star the Repo: Support us by starring your favourite solution.
+- 🐛 Report Issues: Spot a bug or have an idea? Open an issue on [lightning-flow-scanner-core](https://github.com/Lightning-Flow-Scanner/lightning-flow-scanner-core/).
 - 💻 Submit Pull Requests: Add rules or improvements by forking the core repo and submitting a PR.
 - 💬 Join Discussions: Share ideas, ask questions, or propose new features in our Forum or Chat Room.
 
